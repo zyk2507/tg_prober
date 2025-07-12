@@ -2852,8 +2852,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "tg_bot"
-version = "0.1.0"
+name = "tg_prober"
+version = "0.0.1"
 dependencies = [
  "anyhow",
  "chrono",
